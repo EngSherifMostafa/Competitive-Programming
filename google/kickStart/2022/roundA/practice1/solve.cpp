@@ -29,7 +29,7 @@ void reader(int no_of_lines) {
                 cout << "Case #" << index++ << ": " << result << endl;
                 sum_of_candy = 0;
             }
-        } // end of bog for
+        } // end of big for loop
 }
 
 int main() {
